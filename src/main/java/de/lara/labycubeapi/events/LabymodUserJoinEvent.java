@@ -14,8 +14,6 @@ public class LabymodUserJoinEvent extends Event {
         return HANDLERS;
     }
 
-
-
     public LabymodUserJoinEvent(Player player) {
         this.player = player;
     }
