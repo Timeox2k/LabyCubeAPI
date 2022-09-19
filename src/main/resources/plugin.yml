@@ -1,0 +1,6 @@
+name: LabyCubeAPI
+version: '${project.version}'
+main: de.lara.labycubeapi.LabyCubeAPI
+api-version: 1.19
+authors: [ Timeox2k ]
+website: https://cubeslide.net
